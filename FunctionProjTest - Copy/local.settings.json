@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "{AzureWebJobsStorage}"
+  },
+  "ConnectionStrings": {
+    "SQLConnectionString": "DefaultEndpointsProtocol=https;AccountName=bigdatalake;AccountKey=B003wbMTvViMXVe0Aisc51vRDkpQK2c4GOPxJjkuvlvoG6Q9/JbXFM9Vc6R3u9X7WDrmNjD6u0nFmW4KEXlMfg==;EndpointSuffix=core.windows.net"
+  }
+
+}

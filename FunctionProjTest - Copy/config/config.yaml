@@ -1,0 +1,11 @@
+storage:
+  storage_account_name: "bigdatalake"
+  storage_account_key: "B003wbMTvViMXVe0Aisc51vRDkpQK2c4GOPxJjkuvlvoG6Q9/JbXFM9Vc6R3u9X7WDrmNjD6u0nFmW4KEXlMfg=="
+  file_system: "datalakedev"
+  directory: "test"
+
+splunk:
+  HOST: "172.16.227.30"
+  PORT: 8089
+  USERNAME: "yosin"
+  PASSWORD: "Yashir12!"
