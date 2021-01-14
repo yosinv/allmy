@@ -1,6 +1,0 @@
-{
-  "STORAGE_ACCOUNT_NAME" : "bigdatalake",
-  "STORAGE_ACCOUNT_KEY" :  "?",
-  "file_system_name" : "datalakedev",
-  "datalake_directory" : "splunkdata"
-}
