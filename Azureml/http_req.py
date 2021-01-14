@@ -33,7 +33,7 @@ body = str.encode(json.dumps(data))
 print(body)
 # Replace this with the URI and API Key for your web service
 url = 'http://13.69.251.224:80/api/v1/service/quitoaksservice/score'
-api_key = 'epJddCJ824GL1C6LiNeHSAsfvZQHJUJz'
+api_key = '?'
 headers = {'Content-Type': 'application/json', 'Authorization': ('Bearer ' + api_key)}
 
 # "urllib.request.Request(url, body, headers)" for Python 3.X
