@@ -33,7 +33,7 @@ earliest_time = "-60min"
 
 # DATALAKE PARAMS:
 STORAGE_ACCOUNT_NAME = "bigdatalake"
-STORAGE_ACCOUNT_KEY = "B003wbMTvViMXVe0Aisc51vRDkpQK2c4GOPxJjkuvlvoG6Q9/JbXFM9Vc6R3u9X7WDrmNjD6u0nFmW4KEXlMfg=="
+STORAGE_ACCOUNT_KEY = ""
 sourcepath = '/home/site/data'
 source_filename = "input_k4u_logs_bi.csv"
 target_filename = "output_k4u_logs_bi"
